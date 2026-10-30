@@ -1,0 +1,2 @@
+# Advanced-Cybersecurity-Risk-Quantification-and-Control-Investment-Analysis
+You are the lead GRC analyst at SecureBank Financial. An assessment of the SecureMobile banking platform has identified API authentication bypass, database injection and session hijacking risks. Quantify their financial impact, evaluate the proposed security controls and present prioritised recommendations to the CISO and CFO.
